@@ -5,7 +5,7 @@ Need Help with Trust Wallet? Here’s How to Contact
 .. meta::
    :msvalidate.01: ECDBE84ED19B1192A41890640F378D79
 
-You can contact Trust Wallet customer support by calling their toll-free number at +1 (870) 406-6577 or by emailing them at support@trustwallet.com. For inquiries related to your account, Terms of Service, or general wallet usage, you can also submit a request directly through their official support page for timely assistance.
+You can contact Trust Wallet customer support by calling their toll-free number at **+1 (870) 406-6577** or by emailing them at support@trustwallet.com. For inquiries related to your account, Terms of Service, or general wallet usage, you can also submit a request directly through their official support page for timely assistance.
 
 How to Contact Trust Wallet Help: The Most Reliable Guide in 2025
 =============================================================================
